@@ -1,0 +1,6 @@
+body{
+  text-align:center;
+}
+#para{word-spacing: 10px; font-variant: small-caps; text-align: center; font-size: 80px;}
+#image1{border-style:solid; border-color:#AD1457; border: 1px; border-radius: 80px; padding: 5px; width: 450px;}
+#reason1{font-size:50;}
